@@ -1,0 +1,22 @@
+# Machine Learning & Tracking
+mlruns/
+*.pkl
+*.joblib
+
+# Databases & SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Python Bytecode & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# OS Specific
+.DS_Store
+Thumbs.db
