@@ -1,5 +1,5 @@
 # 🏆 Jeopardy! Semantic Trend Analysis & MLOps Pipeline
-
+ * *This temporary project summary was created with AI, until I'm able to write a better one :)*
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite)
 ![Sentence-Transformers](https://img.shields.io/badge/NLP-Sentence--Transformers-orange)
