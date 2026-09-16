@@ -1,5 +1,3 @@
-Here is a clean, modern README.md template tailored to showcase your project's architecture, data modeling, and MLOps tracking. It includes a clear system architecture layout, technical highlights, and step-by-step instructions for running the code locally.
-
 🏆 Jeopardy! Semantic Trend Analysis & MLOps Pipeline
 An end-to-end Data Engineering and MLOps pipeline that scrapes, validates, semantically classifies, and models historical Jeopardy! category trends.
 
